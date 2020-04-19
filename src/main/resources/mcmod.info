@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${mod_id}",
+  "name": "${mod_name}",
+  "description": "${mod_description}",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["${mod_author}"],
+  "credits": "univrsal, for making Just Enough Buttons, which this heavily based on, and the the entire community for making modding possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
